@@ -1,3 +1,3 @@
 # numbertheory
 
-This is numbertheory for cp(competitive programming)
+This is number theory for cp(competitive programming)
